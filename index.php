@@ -24,13 +24,13 @@
                   <a class="nav-link active" aria-current="page" href="#">Hoofdpagina</a>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="gebruiker-overzicht.php">Overzicht gebruikers</a>
+                  <a class="nav-link" href="">Overzicht gebruikers</a>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="product-overzicht.php">Overzicht producten</a>
+                  <a class="nav-link" href="">Overzicht producten</a>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="supplier-overzicht.php">Overzicht leveranciers</a>
+                  <a class="nav-link" href="">Overzicht leveranciers</a>
                </li>
 
             </ul>

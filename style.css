@@ -1,0 +1,15 @@
+.add-user{
+   height: 20px;
+}
+
+.header-overzicht{
+   display: flex;
+   flex-direction: row;;
+}
+
+.header-overzicht * {
+   margin-right: 10px;;
+}
+p {
+   color: aliceblue;
+}
